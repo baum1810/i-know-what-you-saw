@@ -1,4 +1,9 @@
 # i-know-what-you-saw
+
+## star this project if u want me to continue updating this and automating it
+
+## [discord server](https://discord.gg/xxZKnZmnWs)
+
 this project allows you to see who read your dms in discord
 i just coded it yesterday so i will improve it soon and also write a better readme much fun
 
